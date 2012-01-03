@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = Toaster::VERSION
   s.authors     = ["Justin Campbell"]
   s.email       = ["justin@justincampbell.me"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "http://github.com/JustinCampbell/toaster"
+  s.summary     = %q{Give your Rails cache a nice golden brown}
+  s.description = %q{Toaster warms your Rails cache by spidering a list of URLs and/or Sitemaps}
 
   s.rubyforge_project = "toaster"
 
